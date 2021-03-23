@@ -1,2 +1,2 @@
 # new-repo
-a test repo
+under development edit repo
